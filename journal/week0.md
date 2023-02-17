@@ -43,6 +43,17 @@ here's the link [Lucidchart-architecture](https://lucid.app/lucidchart/da0ee0e6-
 
 ![Lucid-Chart-Cruddur](assests/lucidchart-archi.png)
 
+## Created a Billing alarm in Cloud Watch
+
+I have created a billing alarm in cloud watch to monitor the bootcamp expenditure.
+
+I have created a SNS topic with my email subscription, whenver the alarm is breached i will be notified via email
+
+![Billing-alarm](assests/billing-alarm.png)
+
+![SNS-Topic-Billing](assests/sns-billing-alarm.png)
+
+
 
 
 

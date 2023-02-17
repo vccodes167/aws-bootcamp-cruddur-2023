@@ -11,16 +11,46 @@ sudo ./aws/install
 ~~~
 
 i was failed in the first attempt. i was getting following error
-![error-aws-cli]("C:\Users\nagis\OneDrive\Desktop\week0_images\error-aws-cli.png")
-**note for image**
+![error-aws-cli](assests/error-aws-cli.png)
+
 I have revisted the whole process again and found out that i was swapping keyid for secret access key, then resolved by placing the right creds
 
-![aws-cli-installation]("C:\Users\nagis\OneDrive\Desktop\week0_images\gitpod-user.png") 
+![AWS-CLI-Install](assests/gitpod-user.png)
 
-**note to image**
 Completed CLI installation
 
-## 
+## AWS Budgets alarm
+
+I have created my budget alarm which noties me when my budget exceeds $1. 
+
+
+![AWS-Budget-Alarm](assests/budget-alarm.png)
+
+
+## Recreation of Logical Cruddur on a Napkin
+
+I have followed the instructions using and drawn a design on napkin. 
+
+Understood the business importance of archirecture daigram 
+
+![logical-cruddur-napkin](assests/napkin-logical1.png)
+
+## Created Logical architecture using Lucid Charts
+
+I have Created Logical Architecture using lucid charts software through faced some challenges to find the right Icons out, learnt it on the Go
+
+here's the link [Lucidchart-architecture](https://lucid.app/lucidchart/da0ee0e6-29af-46e5-885c-035d5273c80e/edit?viewport_loc=-1103%2C-127%2C3281%2C1281%2C0_0&invitationId=inv_e831c85f-b424-4e72-a938-47353b634533)
+
+![Lucid-Chart-Cruddur](assests/lucidchart-archi.png)
+
+
+
+
+
+
+
+
+
 
  
 
